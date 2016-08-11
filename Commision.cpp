@@ -4,7 +4,7 @@
 
 main()
 {
-    Double commision,price,net_price,percentage_commision;
+    double commision,price,net_price,percentage_commision;
 
     printf("Please Enter Your Commision = ");
     scanf("%f",&commision);
