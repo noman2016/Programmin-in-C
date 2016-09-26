@@ -1,3 +1,4 @@
+// H A A NOMAN
 //multiplication Table For array
 #include<stdio.h>
 #define row 10
